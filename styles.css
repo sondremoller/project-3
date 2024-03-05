@@ -1120,7 +1120,7 @@ a {
   .nav__btn--menu {
     display: inline;
     border: 0;
-    background-color: rgb(247, 250, 252);
+    background-color: white;
   }
 
   .nav__menu--links {
@@ -1140,7 +1140,7 @@ a {
   }
 
   .text--black:hover {
-    color: rgb(100, 21, 255);
+    color: #AE248E;
   }
 
   .nav__menu--backdrop {
@@ -1178,7 +1178,7 @@ a {
   }
 
   .nav__btn--menu--close:hover {
-    color: rgb(100, 21, 255);
+    color: #AE248E;
   }
 
   .nav__btn--menu--img {
@@ -1573,7 +1573,7 @@ a {
   .header__button__small {
     padding: 1.25rem 2rem;
     border: none;
-    background-color: rgb(100, 21, 255);
+    background-color: #F01296;
     border-radius: 9999px;
     font-weight: 500;
     font-size: 16px;
@@ -1588,11 +1588,11 @@ a {
   }
 
   .header__form__bgd__small:hover {
-    border-color: rgba(36, 62, 99);
+    border-color: #AE248E;
   }
 
   .header__form__bgd__small:focus-within {
-    border-color: rgb(100, 21, 255);
+    border-color: #F01296;
   }
 
   .header__input__small::placeholder {
